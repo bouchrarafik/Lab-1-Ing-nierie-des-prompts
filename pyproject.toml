@@ -1,0 +1,11 @@
+[project]
+name = "tp-prompt-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.18",
+    "langchain-groq>=1.1.2",
+    "langchain-openai>=1.2.1",
+]
